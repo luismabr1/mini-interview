@@ -1,0 +1,452 @@
+[
+  {
+    "category": "Motivación y Objetivos Profesionales",
+    "questions": [
+      {
+        "question": "Why do you want to work for this company?",
+        "answer": "I’m passionate about working for [Company Name] because of its innovative approach to solving real-world problems in [industry], which aligns with my career goals. When I researched the company, I was impressed by its commitment to sustainability and cutting-edge technology, particularly in [specific project/product]. I want to contribute my expertise in [your skill] to help drive impactful projects alongside a talented team."
+      },
+      {
+        "question": "Where do you see yourself in five years?",
+        "answer": "In five years, I see myself leading a team in [your field], where I can mentor junior colleagues and drive strategic projects. My goal is to deepen my expertise in [specific skill] while contributing to innovative solutions at a company like yours. I’m motivated by the opportunity to grow professionally and make a lasting impact through my work."
+      },
+      {
+        "question": "What are you looking for in your next role?",
+        "answer": "I’m looking for a role where I can tackle complex technical challenges and collaborate with a diverse team to achieve shared goals. Specifically, I want to work on projects that leverage [specific technology/skill] in an environment that encourages continuous learning. This aligns with why I’m excited about [Company Name], as it offers opportunities to innovate and grow."
+      },
+      {
+        "question": "Why did you leave your last job?",
+        "answer": "I left my previous role at [Previous Company] because I wanted to pursue opportunities where I could take on more challenging projects in [specific area]. While working there, I gained valuable experience in [specific skill], but I felt ready to grow in a role that aligns more closely with my passion for innovation. This is why I’m excited about joining a forward-thinking company like [Company Name]."
+      },
+      {
+        "question": "What motivates you to do your best work?",
+        "answer": "I’m motivated by solving complex problems with a team of talented professionals who share a passion for innovation. For example, when I worked on [specific project] at [Previous Company], collaborating with my team to deliver a solution that impacted [specific outcome] was incredibly rewarding. I thrive in environments where creativity and teamwork drive meaningful results."
+      },
+      {
+        "question": "What would you hope to achieve in the first six months after being hired?",
+        "answer": "In my first six months, I’d focus on understanding [Company Name]’s goals and workflows, particularly in [specific department/project]. I’d aim to build strong relationships with my team and contribute to at least one key project by applying my skills in [specific skill]. My goal is to deliver measurable results, such as improving a process or completing a deliverable, to establish myself as a valuable team member."
+      },
+      {
+        "question": "Why will you be a good fit for this position?",
+        "answer": "I’m a strong fit for this role because my experience in [specific skill] aligns with [Company Name]’s needs, particularly in [specific project/area]. When I worked at [Previous Company], I successfully led [specific task/project], which improved efficiency by [specific metric]. I’m excited to bring my adaptability and problem-solving skills to contribute to your team’s success."
+      },
+      {
+        "question": "What excites you about this company?",
+        "answer": "I’m excited about [Company Name] because of its reputation for pushing boundaries in [specific industry/technology]. When I learned about your recent project in [specific project], I was inspired by how it addresses [specific challenge]. I’m eager to join a team where I can contribute my skills in [specific skill] to drive similar impactful initiatives."
+      },
+      {
+        "question": "What is your biggest strength?",
+        "answer": "My biggest strength is my ability to solve complex problems efficiently, especially when working under pressure. For instance, at [Previous Company], I resolved a critical issue in [specific system] by collaborating with my team, which reduced downtime by [specific metric]. This strength allows me to deliver results consistently in fast-paced environments."
+      },
+      {
+        "question": "What is your biggest weakness?",
+        "answer": "I tend to be overly detail-oriented, which can slow me down when perfectionism takes over. At [Previous Company], I noticed this when working on [specific project], so I started using time management tools to prioritize efficiency. Now, I balance quality with timely delivery, which has improved my overall productivity."
+      }
+    ]
+  },
+  {
+    "category": "Resolución de Problemas y Desafíos",
+    "questions": [
+      {
+        "question": "Tell me about a time you met a tight deadline.",
+        "answer": "When I was at [Previous Company], my team was tasked with delivering a [specific project] in just two weeks due to a client’s urgent request. I took the lead by organizing daily stand-ups, prioritizing critical tasks, and coordinating with stakeholders to ensure alignment. We successfully delivered the project on time, which strengthened the client relationship and earned positive feedback."
+      },
+      {
+        "question": "What was the most difficult bug you fixed recently?",
+        "answer": "At [Previous Company], I encountered a bug in [specific system] that caused [specific issue], impacting user experience. I spent hours debugging with my team, using [specific tool/method] to trace the issue to [root cause]. By implementing a solution that optimized [specific aspect], we reduced errors by [specific metric] and improved system reliability."
+      },
+      {
+        "question": "How do you tackle challenges?",
+        "answer": "When faced with a challenge, I break it down into smaller steps to understand what needs to be addressed and why it’s critical. For example, at [Previous Company], I tackled a [specific challenge] by analyzing data, consulting with colleagues, and testing multiple solutions. This structured approach helped us resolve the issue efficiently and improved our process for future projects."
+      },
+      {
+        "question": "Describe a difficult challenge you faced and how you overcame it.",
+        "answer": "At [Previous Company], we faced a challenge where [specific issue] threatened to delay a major project. I collaborated with my team to identify the root cause, which was [specific problem], and proposed a workaround using [specific solution]. Our solution kept the project on track, and I learned the importance of proactive communication in high-stakes situations."
+      },
+      {
+        "question": "Tell me about a time you had to persevere for months.",
+        "answer": "When I worked on [specific project] at [Previous Company], it required six months of iterative development due to its complexity. I stayed motivated by setting milestones with my team and regularly reviewing progress to address issues like [specific challenge]. Our persistence paid off, resulting in a successful launch that increased [specific metric] for the company."
+      },
+      {
+        "question": "What’s the most constructive feedback you’ve received?",
+        "answer": "At [Previous Company], my manager noted that I could improve my presentation skills when communicating with stakeholders. I took this feedback seriously and enrolled in a public speaking course, which helped me deliver clearer updates during [specific project]. This experience taught me the value of clear communication and boosted my confidence in meetings."
+      },
+      {
+        "question": "Tell me about a time you had to deliver bad news.",
+        "answer": "When a project at [Previous Company] faced a delay due to [specific issue], I had to inform our client. I prepared a clear explanation of why the delay occurred, outlined our plan to resolve it, and scheduled regular updates to keep them informed. This transparent approach maintained trust and led to a successful project completion."
+      },
+      {
+        "question": "What aspects of your work are most often criticized?",
+        "answer": "At [Previous Company], I received feedback that I could improve my documentation during [specific project]. I took this to heart and started using [specific tool] to create detailed records, which improved team collaboration. This experience showed me why thorough documentation is critical for project success."
+      },
+      {
+        "question": "How do you handle criticism of your work?",
+        "answer": "When I receive criticism, I listen carefully to understand why it was given and what improvements are needed. For example, at [Previous Company], a colleague suggested I streamline my code for [specific project], so I reviewed it and optimized key sections. This not only improved the project but also strengthened my ability to accept and act on feedback."
+      },
+      {
+        "question": "What is something you had to push for in a project?",
+        "answer": "At [Previous Company], I noticed our testing process was inefficient, so I advocated for adopting [specific tool]. I presented data to my team showing why it would save time and improve quality, and after a trial, it was implemented across projects. This change reduced testing time by [specific metric] and enhanced our deliverables."
+      }
+    ]
+  },
+  {
+    "category": "Trabajo en Equipo y Conflictos",
+    "questions": [
+      {
+        "question": "Tell me about a time you had a conflict with a co-worker.",
+        "answer": "At [Previous Company], a colleague and I disagreed on the approach for [specific project] because of differing priorities. We sat down to discuss why each approach made sense and found a compromise that combined our ideas. This collaboration led to a successful project outcome and strengthened our working relationship."
+      },
+      {
+        "question": "How do you deal with difficult coworkers?",
+        "answer": "When working with difficult coworkers, I focus on understanding why they might be challenging and address it with empathy. At [Previous Company], I worked with someone who was resistant to feedback on [specific task]. By listening actively and proposing solutions that aligned with our goals, we improved collaboration and delivered the project successfully."
+      },
+      {
+        "question": "Describe a disagreement with your manager.",
+        "answer": "At [Previous Company], I disagreed with my manager on the timeline for [specific project] because I believed it was too aggressive. I presented data showing why a longer timeline would ensure quality and collaborated to adjust the schedule. This approach led to a high-quality deliverable without compromising deadlines."
+      },
+      {
+        "question": "What words would your colleagues use to describe you?",
+        "answer": "My colleagues at [Previous Company] would describe me as collaborative, reliable, and proactive because I consistently supported team goals. For example, during [specific project], I took the initiative to resolve [specific issue], which helped us meet our deadline. Their feedback reflects my commitment to teamwork and problem-solving."
+      },
+      {
+        "question": "How do you handle disagreements with co-workers?",
+        "answer": "When disagreements arise, I listen to understand why my coworker feels strongly about their perspective. At [Previous Company], a teammate and I disagreed on [specific issue], so I proposed a meeting to review data and find a solution. This led to a compromise that improved our project and maintained a positive working relationship."
+      },
+      {
+        "question": "Describe a problem you had getting along with a work associate.",
+        "answer": "At [Previous Company], I worked with a colleague who had a very different work style, which caused tension during [specific project]. I initiated a conversation to understand why our approaches clashed and suggested ways to align our efforts. This improved our collaboration and led to a successful project outcome."
+      },
+      {
+        "question": "What strengths are most important for this role?",
+        "answer": "For this role, teamwork, adaptability, and problem-solving are critical because they drive project success. At [Previous Company], I used these strengths to deliver [specific project] by collaborating with cross-functional teams and adapting to changes. These skills ensure I can contribute effectively to [Company Name]’s goals."
+      },
+      {
+        "question": "What would your manager say about you?",
+        "answer": "My manager at [Previous Company] would say I’m proactive and dependable because I consistently took ownership of tasks like [specific task]. For example, when [specific challenge] arose, I stepped up to resolve it, which earned positive feedback. They’d also highlight my ability to work well with teams to achieve results."
+      },
+      {
+        "question": "How do you work with senior management on large projects?",
+        "answer": "When working with senior management, I ensure clear communication by providing regular updates on [specific project]. At [Previous Company], I collaborated with executives to align our project with company goals, which improved stakeholder buy-in. This approach helped us deliver a project that exceeded expectations."
+      },
+      {
+        "question": "What is your ideal work environment?",
+        "answer": "My ideal work environment is one where collaboration and innovation are prioritized, allowing me to contribute to meaningful projects. At [Previous Company], I thrived in a team setting where we tackled [specific challenge] together, fostering creativity. I’m excited to join [Company Name] because its culture aligns with this vision."
+      }
+    ]
+  },
+  {
+    "category": "Habilidades Técnicas y Experiencia",
+    "questions": [
+      {
+        "question": "Explain a recent difficult project you worked on.",
+        "answer": "At [Previous Company], I worked on [specific project] where we faced challenges due to [specific issue]. I led the effort to implement [specific solution], collaborating with my team to ensure success. This project improved [specific metric] and taught me the importance of thorough planning."
+      },
+      {
+        "question": "What is the most challenging aspect of your current project?",
+        "answer": "The most challenging aspect of my current project at [Current Company] is [specific issue], which requires careful coordination. I’m addressing it by using [specific tool/method] to streamline processes and collaborating with [specific team]. This approach has improved efficiency and kept us on track."
+      },
+      {
+        "question": "How do you stay up to date with the latest technologies?",
+        "answer": "I stay current by following industry blogs like [specific blog] and taking courses on platforms like [specific platform]. For example, when [specific technology] emerged, I completed a course and applied it to [specific project], improving performance. This habit ensures I bring cutting-edge solutions to my work."
+      },
+      {
+        "question": "What was the most fun thing you did recently?",
+        "answer": "Recently, I built a [specific project/tool] in my spare time at [location, e.g., home], which was exciting because it allowed me to experiment with [specific technology]. I shared it with my team, who provided feedback that enhanced its functionality. This project reinforced my passion for creative problem-solving."
+      },
+      {
+        "question": "What is broken around you?",
+        "answer": "At [Previous Company], I noticed our [specific process] was inefficient, causing delays in [specific task]. I proposed implementing [specific solution], which I tested with my team, and it reduced processing time by [specific metric]. This experience showed me why proactive problem-solving is critical."
+      },
+      {
+        "question": "What is the hardest technical problem you’ve faced?",
+        "answer": "At [Previous Company], I tackled a complex issue in [specific system] where [specific problem] disrupted operations. I collaborated with my team to debug the issue using [specific tool], and we implemented a fix that improved reliability by [specific metric]. This taught me the value of persistence in technical challenges."
+      },
+      {
+        "question": "What do you know about [role] and why?",
+        "answer": "I understand that [role] at [Company Name] involves [specific responsibilities], which excites me because it aligns with my skills in [specific skill]. When researching the role, I saw how it contributes to [specific company goal], and I’m eager to apply my experience from [specific project] to make an impact."
+      },
+      {
+        "question": "Take me through a product you launched from start to end.",
+        "answer": "At [Previous Company], I led the launch of [specific product] from ideation to release, where I coordinated with designers and developers. We faced challenges like [specific issue], which I resolved by implementing [specific solution]. The product launched successfully, achieving [specific metric] and earning positive user feedback."
+      },
+      {
+        "question": "What’s your biggest achievement in previous projects?",
+        "answer": "My biggest achievement was delivering [specific project] at [Previous Company], where I optimized [specific process] to improve efficiency. By collaborating with my team and using [specific tool], we reduced costs by [specific metric]. This success highlighted the impact of strategic problem-solving."
+      },
+      {
+        "question": "Tell me about a recent failure and what you learned.",
+        "answer": "At [Previous Company], I underestimated the complexity of [specific task], which led to a missed deadline for [specific project]. I took responsibility, worked with my team to implement [specific solution], and delivered the project successfully. This taught me why thorough planning is essential for project success."
+      }
+    ]
+  },
+  {
+    "category": "Adaptabilidad y Aprendizaje",
+    "questions": [
+      {
+        "question": "How do you handle rapid changes in project requirements?",
+        "answer": "When requirements change, I reassess priorities and communicate with stakeholders to understand why the shift occurred. At [Previous Company], a client changed [specific requirement] mid-project, so I reorganized tasks and used [specific tool] to adapt. This ensured we delivered on time and met the new expectations."
+      },
+      {
+        "question": "Tell me about a time you had to learn a new skill quickly.",
+        "answer": "At [Previous Company], I needed to learn [specific skill] for [specific project] within a week due to a team shortage. I used online resources like [specific platform] and practiced with a mentor, applying it to deliver [specific outcome]. This experience showed me how to learn efficiently under pressure."
+      },
+      {
+        "question": "How do you prioritize tasks in a fast-paced environment?",
+        "answer": "In fast-paced settings, I prioritize tasks based on their impact and deadlines, using tools like Trello to stay organized. At [Previous Company], I managed [specific project] by focusing on critical tasks first, which ensured we met our deadline. This approach keeps me effective when workloads are heavy."
+      },
+      {
+        "question": "Describe a time you adapted to a major change at work.",
+        "answer": "At [Previous Company], a sudden shift in [specific process] required us to adapt quickly to [new method]. I collaborated with my team to learn the new system and implemented [specific solution] to maintain productivity. This experience taught me why flexibility is key in dynamic environments."
+      },
+      {
+        "question": "What’s a new technology you’ve recently learned?",
+        "answer": "I recently learned [specific technology] because I saw its potential to improve [specific task] at [Current Company]. I took a course on [specific platform] and applied it to [specific project], which enhanced performance by [specific metric]. This reinforced my commitment to staying current with industry trends."
+      },
+      {
+        "question": "How do you handle uncertainty in a project?",
+        "answer": "When uncertainty arises, I focus on what’s known and plan for contingencies while seeking clarity from stakeholders. At [Previous Company], unclear requirements for [specific project] led me to initiate meetings with the client, resulting in a clear scope. This approach kept the project on track and improved communication."
+      },
+      {
+        "question": "Tell me about a time you went beyond your job description.",
+        "answer": "At [Previous Company], I noticed [specific issue] affecting our team’s efficiency, so I took the initiative to develop [specific solution]. This wasn’t part of my role, but it saved [specific metric, e.g., time/cost] and earned praise from my manager. It showed me why stepping up can drive team success."
+      },
+      {
+        "question": "How do you manage stress during high-pressure projects?",
+        "answer": "During high-pressure projects, I manage stress by prioritizing tasks and taking short breaks to stay focused. At [Previous Company], I handled [specific project] under a tight deadline by using [specific tool] to organize my work, which ensured timely delivery. This approach helps me stay calm and productive."
+      },
+      {
+        "question": "What’s a skill you’re currently working to improve?",
+        "answer": "I’m currently improving my [specific skill] because I want to enhance my contribution to [specific area]. At [Current Company], I’m taking [specific course/action] and applying it to [specific task], which has already improved my performance. This effort reflects my commitment to continuous growth."
+      },
+      {
+        "question": "How do you approach learning from mistakes?",
+        "answer": "When I make a mistake, I analyze why it happened and what I can do differently, often seeking feedback from colleagues. For example, at [Previous Company], an error in [specific task] taught me to double-check [specific aspect], improving my accuracy. This process helps me grow and prevent future issues."
+      }
+    ]
+  },
+  {
+    "category": "Liderazgo y Toma de Decisiones",
+    "questions": [
+      {
+        "question": "Tell me about a time you led a team.",
+        "answer": "At [Previous Company], I led a team of five on [specific project] where we had to deliver [specific outcome] under a tight deadline. I ensured clear communication by holding daily stand-ups and delegated tasks based on team strengths, resulting in a successful launch that improved [specific metric]. This experience taught me why effective leadership drives results."
+      },
+      {
+        "question": "How do you make tough decisions?",
+        "answer": "When making tough decisions, I gather data and consult with stakeholders to understand why the decision is critical. At [Previous Company], I decided to pivot [specific project] after analyzing [specific data], which led to [specific outcome]. This structured approach ensures I make informed and impactful choices."
+      },
+      {
+        "question": "Describe a time you had to motivate a team.",
+        "answer": "At [Previous Company], my team was demotivated during [specific project] due to [specific challenge]. I organized a meeting to set clear goals, recognized their efforts, and shared why the project mattered, which boosted morale. We delivered the project on time, reinforcing the value of team motivation."
+      },
+      {
+        "question": "What’s your leadership style?",
+        "answer": "My leadership style is collaborative and empowering because I believe in leveraging team strengths. At [Previous Company], I led [specific project] by encouraging input, assigning tasks based on expertise, and providing support, which led to [specific outcome]. This approach fosters trust and drives success."
+      },
+      {
+        "question": "Tell me about a time you delegated effectively.",
+        "answer": "At [Previous Company], I delegated tasks for [specific project] by matching team members’ skills to specific roles, such as assigning [specific task] to [specific person]. I provided clear instructions and followed up regularly, which ensured we met our deadline. This taught me why strategic delegation is key to project success."
+      },
+      {
+        "question": "How do you handle underperforming team members?",
+        "answer": "When a team member underperforms, I address it with empathy by understanding why they’re struggling. At [Previous Company], I worked with a colleague who missed deadlines on [specific project], offering guidance and resources, which improved their performance. This approach strengthened the team and met project goals."
+      },
+      {
+        "question": "Describe a time you influenced a decision.",
+        "answer": "At [Previous Company], I influenced a decision to adopt [specific tool] for [specific project] by presenting data on why it would improve efficiency. My team tested it, and it reduced processing time by [specific metric], validating the choice. This experience highlighted the power of evidence-based persuasion."
+      },
+      {
+        "question": "How do you balance team and individual goals?",
+        "answer": "I balance team and individual goals by aligning personal tasks with project objectives, ensuring everyone contributes to the bigger picture. At [Previous Company], I helped a teammate focus on [specific task] that supported [specific project goal], which led to a successful outcome. This approach fosters both individual growth and team success."
+      },
+      {
+        "question": "Tell me about a time you took a risk.",
+        "answer": "At [Previous Company], I proposed [specific risky solution] for [specific project] because I believed it could yield [specific benefit]. Despite initial skepticism, I mitigated risks by testing it in a controlled environment, and it improved [specific metric]. This taught me why calculated risks can drive innovation."
+      },
+      {
+        "question": "How do you ensure accountability in a team?",
+        "answer": "To ensure accountability, I set clear expectations and track progress with tools like Jira. At [Previous Company], I implemented weekly check-ins for [specific project], which kept everyone aligned and led to a successful delivery. This approach fosters responsibility and ensures project success."
+      }
+    ]
+  },
+  {
+    "category": "Comunicación y Habilidades Interpersonales",
+    "questions": [
+      {
+        "question": "How do you ensure clear communication in a team?",
+        "answer": "I ensure clear communication by using tools like Slack and providing concise updates tailored to the team’s needs. At [Previous Company], I streamlined communication for [specific project] by setting up regular meetings, which improved collaboration and met deadlines. This approach ensures everyone stays aligned and informed."
+      },
+      {
+        "question": "Tell me about a time you explained a complex concept.",
+        "answer": "At [Previous Company], I explained [specific complex concept] to non-technical stakeholders during [specific project]. I used analogies and visuals to simplify the idea, ensuring they understood why it was critical, which led to their approval. This experience taught me the importance of tailored communication."
+      },
+      {
+        "question": "How do you handle misunderstandings at work?",
+        "answer": "When misunderstandings occur, I address them promptly by clarifying intentions with the involved parties. At [Previous Company], a miscommunication about [specific task] caused confusion, so I organized a meeting to align everyone, resulting in a smooth project continuation. This approach prevents escalation and fosters teamwork."
+      },
+      {
+        "question": "Describe a time you gave a presentation.",
+        "answer": "At [Previous Company], I presented [specific topic] to [specific audience] to secure buy-in for [specific project]. I prepared clear slides and rehearsed to address why the project mattered, which led to approval and funding. This experience improved my confidence in public speaking."
+      },
+      {
+        "question": "How do you adapt your communication style?",
+        "answer": "I adapt my communication based on the audience, using technical terms for developers and simpler language for clients. At [Previous Company], I tailored updates for [specific project] to suit both engineers and executives, ensuring clarity. This flexibility improved stakeholder engagement and project success."
+      },
+      {
+        "question": "Tell me about a time you persuaded someone.",
+        "answer": "At [Previous Company], I persuaded my team to adopt [specific tool] for [specific project] by presenting data on why it would save time. After a trial run, they saw a [specific metric] improvement, and it was fully implemented. This taught me the value of evidence-based persuasion."
+      },
+      {
+        "question": "How do you build trust with a team?",
+        "answer": "I build trust by being transparent and following through on commitments, as I did at [Previous Company] during [specific project]. By consistently delivering on tasks and supporting teammates, I fostered a collaborative environment that led to [specific outcome]. Trust is key to effective teamwork."
+      },
+      {
+        "question": "Describe a time you had to communicate bad news.",
+        "answer": "At [Previous Company], I had to inform a client about a delay in [specific project] due to [specific issue]. I explained why it happened, outlined our recovery plan, and provided regular updates, which maintained their trust. This approach ensured a successful project despite the setback."
+      },
+      {
+        "question": "How do you handle feedback from peers?",
+        "answer": "I handle peer feedback by listening actively and asking clarifying questions to understand their perspective. At [Previous Company], a colleague suggested improving [specific aspect] of my work, so I implemented their advice, which enhanced [specific outcome]. This process strengthens my skills and collaboration."
+      },
+      {
+        "question": "What’s your approach to stakeholder communication?",
+        "answer": "I communicate with stakeholders by providing regular, clear updates aligned with their priorities. At [Previous Company], I kept stakeholders informed on [specific project] through weekly reports, which ensured alignment and led to [specific outcome]. This approach builds trust and drives project success."
+      }
+    ]
+  },
+  {
+    "category": "Cultura y Alineación con la Empresa",
+    "questions": [
+      {
+        "question": "What do you know about our company’s mission?",
+        "answer": "I know [Company Name] is dedicated to [specific mission], which resonates with me because I’m passionate about [related value]. When researching, I learned about your work on [specific project], which aligns with my skills in [specific skill]. I’m excited to contribute to this mission through innovative solutions."
+      },
+      {
+        "question": "How do you align with our company values?",
+        "answer": "Your value of [specific value] aligns with my approach to [related behavior], as shown in [specific project] at [Previous Company]. I prioritized [specific action] to achieve [specific outcome], reflecting my commitment to that value. This alignment makes me eager to join [Company Name]."
+      },
+      {
+        "question": "What kind of company culture do you thrive in?",
+        "answer": "I thrive in a collaborative and innovative culture where ideas are valued, like the one at [Company Name]. At [Previous Company], I contributed to [specific project] in a similar environment, which led to [specific outcome]. This setting motivates me to deliver my best work."
+      },
+      {
+        "question": "Why do you think you’d fit in here?",
+        "answer": "I’d fit in at [Company Name] because my passion for [specific area] aligns with your culture of innovation. At [Previous Company], I collaborated on [specific project], which improved [specific metric], showing my ability to contribute. I’m excited to bring this energy to your team."
+      },
+      {
+        "question": "What’s important to you in a workplace?",
+        "answer": "I value a workplace with transparency and growth opportunities, where I can contribute to meaningful projects. At [Previous Company], I thrived in an environment that supported [specific value], leading to [specific outcome]. This is why I’m drawn to [Company Name]’s culture."
+      },
+      {
+        "question": "How do you contribute to a positive team culture?",
+        "answer": "I contribute to a positive culture by being supportive and open to feedback, as I was during [specific project] at [Previous Company]. I organized team-building activities and recognized contributions, which improved morale and led to [specific outcome]. This approach fosters collaboration and positivity."
+      },
+      {
+        "question": "Describe a time you went above and beyond for a team.",
+        "answer": "At [Previous Company], I stayed late to help a teammate meet a deadline for [specific project] because I saw how critical it was. My support ensured we delivered [specific outcome], strengthening our team’s bond. This experience showed me why teamwork drives success."
+      },
+      {
+        "question": "What do you do to stay motivated in a team setting?",
+        "answer": "I stay motivated by setting shared goals and learning from my colleagues, as I did in [specific project] at [Previous Company]. Celebrating milestones and collaborating on [specific task] kept me engaged, leading to [specific outcome]. This approach fuels my drive in team environments."
+      },
+      {
+        "question": "How do you handle a team with diverse perspectives?",
+        "answer": "I embrace diverse perspectives by listening actively and integrating ideas, as I did in [specific project] at [Previous Company]. When team members disagreed, I facilitated discussions to find common ground, resulting in [specific outcome]. This approach strengthens collaboration and innovation."
+      },
+      {
+        "question": "What makes you excited about our company’s future?",
+        "answer": "I’m excited about [Company Name]’s future because of its focus on [specific goal/project], which I learned about when researching your recent initiatives. I want to contribute my skills in [specific skill] to help achieve [specific outcome]. This vision aligns with my passion for impactful work."
+      }
+    ]
+  },
+  {
+    "category": "Gestión del Tiempo y Organización",
+    "questions": [
+      {
+        "question": "How do you manage multiple deadlines?",
+        "answer": "I manage multiple deadlines by prioritizing tasks based on urgency and using tools like Asana to track progress. At [Previous Company], I handled [specific projects] by setting clear milestones, which ensured timely delivery. This approach keeps me organized and effective under pressure."
+      },
+      {
+        "question": "Tell me about a time you missed a deadline.",
+        "answer": "At [Previous Company], I missed a deadline for [specific task] because I underestimated [specific issue]. I communicated the delay to my team, implemented [specific solution], and delivered the project successfully. This taught me why proactive planning is critical to avoid setbacks."
+      },
+      {
+        "question": "How do you stay organized in a busy environment?",
+        "answer": "I stay organized by using calendars and tools like Jira to prioritize tasks and track progress. At [Previous Company], I managed [specific project] by breaking it into actionable steps, which ensured we met our goals. This system helps me stay focused in fast-paced settings."
+      },
+      {
+        "question": "Describe a time you juggled multiple projects.",
+        "answer": "At [Previous Company], I juggled three projects by prioritizing tasks and delegating where appropriate, using Trello to stay organized. When [specific challenge] arose, I adjusted schedules to meet all deadlines, delivering [specific outcome]. This experience honed my multitasking skills."
+      },
+      {
+        "question": "How do you decide what tasks to prioritize?",
+        "answer": "I prioritize tasks based on their impact and deadlines, consulting stakeholders to align with goals. At [Previous Company], I focused on [specific task] for [specific project], which improved [specific metric]. This approach ensures I focus on what drives the most value."
+      },
+      {
+        "question": "What tools do you use to stay organized?",
+        "answer": "I use tools like Jira, Trello, and Google Calendar to track tasks and deadlines effectively. At [Previous Company], I implemented [specific tool] for [specific project], which streamlined collaboration and saved [specific metric]. These tools keep me organized and efficient."
+      },
+      {
+        "question": "Tell me about a time you improved a process.",
+        "answer": "At [Previous Company], I noticed [specific process] was slowing down [specific task], so I proposed [specific solution]. After implementing it with my team, we reduced processing time by [specific metric], improving efficiency. This showed me why process optimization matters."
+      },
+      {
+        "question": "How do you handle unexpected interruptions?",
+        "answer": "When interruptions occur, I assess their urgency and adjust my priorities accordingly. At [Previous Company], a sudden issue in [specific project] required immediate attention, so I delegated [specific task] and resolved it, maintaining our timeline. This keeps me adaptable and focused."
+      },
+      {
+        "question": "Describe a time you had to reprioritize quickly.",
+        "answer": "At [Previous Company], a critical issue in [specific project] required me to shift focus from [specific task]. I communicated changes to my team and used [specific tool] to reorganize priorities, ensuring we met our deadline. This taught me why flexibility is key in dynamic projects."
+      },
+      {
+        "question": "How do you ensure you meet long-term goals?",
+        "answer": "I break long-term goals into milestones and track progress with tools like Asana. At [Previous Company], I managed [specific project] by setting quarterly targets, which led to [specific outcome]. This approach ensures steady progress and alignment with objectives."
+      }
+    ]
+  },
+  {
+    "category": "Preguntas Situacionales y de Comportamiento",
+    "questions": [
+      {
+        "question": "Tell me about a time you exceeded expectations.",
+        "answer": "At [Previous Company], I was tasked with [specific task] for [specific project], and I delivered it ahead of schedule by optimizing [specific process]. This saved [specific metric] and earned praise from my manager, showing why proactive effort matters. It also improved team morale."
+      },
+      {
+        "question": "Describe a time you worked under pressure.",
+        "answer": "At [Previous Company], I worked on [specific project] under a tight deadline due to [specific reason]. I prioritized tasks using [specific tool] and collaborated with my team, delivering high-quality results on time. This experience taught me how to thrive in high-pressure situations."
+      },
+      {
+        "question": "Tell me about a time you failed and recovered.",
+        "answer": "At [Previous Company], I underestimated [specific task], leading to a delay in [specific project]. I took responsibility, collaborated with my team to implement [specific solution], and delivered successfully. This taught me why thorough planning prevents setbacks."
+      },
+      {
+        "question": "How do you handle conflicting priorities?",
+        "answer": "When priorities conflict, I assess their impact and consult stakeholders to align on goals. At [Previous Company], I balanced [specific tasks] by negotiating timelines with my manager, ensuring both were completed successfully. This approach keeps projects on track and stakeholders satisfied."
+      },
+      {
+        "question": "Describe a time you solved a problem creatively.",
+        "answer": "At [Previous Company], we faced [specific problem] in [specific project], so I proposed [creative solution] that hadn’t been tried before. I tested it with my team, and it improved [specific metric], showing why innovative thinking is valuable. This solution became a team standard."
+      },
+      {
+        "question": "Tell me about a time you took initiative.",
+        "answer": "At [Previous Company], I noticed [specific issue] slowing down [specific project], so I proposed [specific solution] without being asked. I worked with my team to implement it, improving [specific metric]. This showed me why taking initiative drives progress."
+      },
+      {
+        "question": "How do you handle a project going off track?",
+        "answer": "When a project goes off track, I identify why it’s happening and realign the team. At [Previous Company], [specific project] faced delays due to [specific issue], so I adjusted our plan and communicated with stakeholders, ensuring delivery. This approach keeps projects on course."
+      },
+      {
+        "question": "Describe a time you worked with limited resources.",
+        "answer": "At [Previous Company], we had limited resources for [specific project], so I optimized [specific resource] and collaborated with my team to prioritize tasks. This approach led to a successful delivery that met [specific goal]. It taught me why resourcefulness is critical."
+      },
+      {
+        "question": "Tell me about a time you mentored someone.",
+        "answer": "At [Previous Company], I mentored a junior colleague on [specific task] during [specific project] because they needed guidance. I provided resources and regular feedback, helping them improve and contribute to [specific outcome]. This experience showed me why mentoring strengthens teams."
+      },
+      {
+        "question": "How do you handle a lack of direction in a project?",
+        "answer": "When direction is unclear, I seek clarity from stakeholders and define actionable steps. At [Previous Company], [specific project] lacked a clear scope, so I initiated meetings with the client, resulting in a defined plan that led to [specific outcome]. This approach ensures progress despite ambiguity."
+      }
+    ]
+  }
+]
