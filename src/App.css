@@ -14,8 +14,8 @@ body {
 
 .app-container {
   max-width: 900px;
-  margin: 2rem auto; /* Centrado en desktop con márgenes verticales */
-  padding: 0 1rem; /* Mínimo padding para desktop */
+  margin: 2rem auto; /* Centrado en desktop */
+  padding: 0 1rem;
   text-align: center;
 }
 
@@ -63,6 +63,11 @@ body {
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
+.card.paused {
+  background: #f0f4f8; /* Fondo diferente cuando está pausado */
+  border: 2px solid #3498db;
+}
+
 .category {
   font-size: 1.5rem;
   color: #3498db;
@@ -106,6 +111,7 @@ body {
   margin-top: 1.5rem;
 }
 
+.pause-btn,
 .toggle-answer-btn,
 .next-btn,
 .reset-btn {
@@ -115,6 +121,16 @@ body {
   border-radius: 5px;
   cursor: pointer;
   transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.pause-btn {
+  background: #f1c40f;
+  color: white;
+}
+
+.pause-btn:hover {
+  background: #d4ac0d;
+  transform: scale(1.05);
 }
 
 .toggle-answer-btn {
@@ -151,8 +167,8 @@ body {
 /* Responsividad para móviles */
 @media (max-width: 600px) {
   .app-container {
-    margin: 1.5rem 1.5rem; /* Márgenes laterales más amplios en móviles */
-    padding: 1rem; /* Padding adicional para evitar tocar los bordes */
+    margin: 1.5rem 1.5rem; /* Márgenes laterales en móviles */
+    padding: 1rem;
   }
 
   .title {
@@ -186,6 +202,7 @@ body {
     flex-direction: column;
   }
 
+  .pause-btn,
   .toggle-answer-btn,
   .next-btn {
     width: 100%;
